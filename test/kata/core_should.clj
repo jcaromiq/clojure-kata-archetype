@@ -1,6 +1,6 @@
-(ns es.joaquincaro.katas.kataShould
+(ns kata.core_should
     (:require [midje.sweet :refer :all]
-      [es.joaquincaro.katas.kata :refer :all]))
+      [kata.core :refer :all]))
 
 (facts
   "about Kata"

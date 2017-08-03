@@ -1,3 +1,3 @@
-(ns es.joaquincaro.katas.kata)
+(ns kata.core)
 
 (defn hello-world [] "Hello world")
